@@ -21,7 +21,7 @@ const Nav = () => {
     return (
       <div className="sticky top-4 z-20 max-w-screen-2xl container mx-auto xl:px-24 p-4">
         <nav 
-          className="w-4/5 mx-auto p-4 text-white rounded-2xl"
+          className="w-4/5 mx-auto p-2 text-white rounded-2xl"
           style={{ 
             backgroundColor: 'rgba(216, 180, 254, 0.5)', 
             backdropFilter: 'blur(8px)' // Apply blur effect
@@ -29,7 +29,7 @@ const Nav = () => {
         >
           <div className="flex justify-between items-center">
             {/* Logo */}
-            <img src="logoooo.png" className="w-20 h-15"/>
+            <img src="logoooo.png" className="w-12 h-12"/>
 
             {/* Menu Items for large screens */}
             <div className="hidden lg:flex flex-1 justify-center space-x-8">
