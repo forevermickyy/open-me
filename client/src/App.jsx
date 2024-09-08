@@ -14,7 +14,7 @@ function App() {
 
   return (
     <>
-      <div className="w-full bg-gradient-to-b from-violet-950 via-transparent to-violet-50">
+      <div className="w-full bg-gradient-to-b from-purple-950 via-transparent to-purple-50">
       <Nav />
       <Rating/>
       <Headings/>

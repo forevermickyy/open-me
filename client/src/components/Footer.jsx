@@ -6,7 +6,7 @@ import { FaWhatsapp } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <footer className="w-full bg-gradient-to-t from-violet-300 via-transparent to-violet-50 mt-10 p-8">
+    <footer className="w-full bg-gradient-to-t from-purple-300 via-transparent to-purple-50 mt-10 p-8">
         
     <div className="flex flex-row flex-wrap items-center justify-center gap-y-6 gap-x-12 bg-purple-50 text-center md:justify-center">
       <img src="logoooo.png" className="w-20" />

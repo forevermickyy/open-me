@@ -29,7 +29,7 @@ const Nav = () => {
         >
           <div className="flex justify-between items-center">
             {/* Logo */}
-            <img src="logoooo.png" className="w-12 h-12"/>
+            <img src="logoooo.png" className="w-15 h-14"/>
 
             {/* Menu Items for large screens */}
             <div className="hidden lg:flex flex-1 justify-center space-x-8">
